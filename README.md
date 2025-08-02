@@ -35,3 +35,13 @@ def activate_bonus():
     winning_lines = check_lines(board)
     rewards += calculate_rewards(winning_lines)
     return rewards
+## 🧭 Development Roadmap
+
+- [x] Define core idea and theme
+- [x] Create GitHub repository and documentation
+- [x] Generate visual concept (first preview)
+- [ ] Learn or explore Stake Engine tools
+- [ ] Implement base slot spin logic
+- [ ] Design bonus logic and visuals
+- [ ] Test and refine gameplay
+- [ ] Submit working prototype
