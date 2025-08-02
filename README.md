@@ -1,7 +1,7 @@
 # ajedrez-slot-stake
 ## 🎨 Preview
 
-![Preview of Chess Slot](./model.png)
+![Chess Slot Preview](./model.png)
 
 Chess-themed slot with interactive board bonus
 # Chess Slot - Interactive Bonus Concept
